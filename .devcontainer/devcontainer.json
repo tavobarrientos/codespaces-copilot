@@ -16,11 +16,15 @@
                 "angular.ng-serve",
                 "angular.ng-generate",
                 "angular.ng-add",
-                "angular.ng-update"
+                "angular.ng-update",
+                "angular-language-service",
+                "ms-vscode.vscode-typescript-tslint-plugin",
+                "astrojs.astro",
+                "angular.ng-cli"
             ],
             "settings": {
-                "workbench.colorTheme": "Solarized Dark",
-                "workbench.iconTheme": "material-icon-theme"
+                "workbench.colorTheme": "Monokai",
+                "workbench.iconTheme": "material-icon-theme."
             }
         },
         "codespaces": {
