@@ -6,8 +6,12 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "GitHub.copilot"
-            ]
+                "GitHub.copilot",
+                "dracula-theme.theme-dracula"
+            ],
+            "settings": {
+                "workbench.colorTheme": "Solarized Dark"
+            }
         },
         "codespaces": {
             "openFiles": [
