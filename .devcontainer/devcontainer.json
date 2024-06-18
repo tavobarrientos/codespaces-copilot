@@ -29,5 +29,5 @@
             ]
         }
     },
-    "postCreateCommand": "echo 'Hello, Codespaces!' >> codespace.md"
+    "postCreateCommand": "echo 'Hello, Codespaces!'"
 }
