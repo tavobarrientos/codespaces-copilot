@@ -7,10 +7,20 @@
         "vscode": {
             "extensions": [
                 "GitHub.copilot",
-                "dracula-theme.theme-dracula"
+                "dracula-theme.theme-dracula",
+                "material-icon-theme.material-icon-theme",
+                "gitlens.gitlens",
+                "ms-azuretools.vscode-docker",
+                "ms-dotnettools.csharp",
+                "angular.ng-template",
+                "angular.ng-serve",
+                "angular.ng-generate",
+                "angular.ng-add",
+                "angular.ng-update"
             ],
             "settings": {
-                "workbench.colorTheme": "Solarized Dark"
+                "workbench.colorTheme": "Solarized Dark",
+                "workbench.iconTheme": "material-icon-theme"
             }
         },
         "codespaces": {
